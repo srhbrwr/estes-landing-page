@@ -108,6 +108,10 @@ main p {
     grid-template-columns: 1fr 2fr 2fr;
 }
 
+.instagram-embeds {
+    margin: 30px 0;
+}
+
 .card {
     background: white;
     margin: 30px 0;
