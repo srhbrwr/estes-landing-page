@@ -115,10 +115,6 @@ main p {
     text-align: center;
 }
 
-.card-body {
-    padding 60px;
-}
-
 .card-footer {
     padding: 0 30px 30px;
 }
