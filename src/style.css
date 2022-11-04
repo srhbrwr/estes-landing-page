@@ -171,7 +171,8 @@ footer li {
     }
 
     header h1 {
-        font-size:  60px;
+        font-size:  45px;
+        margin: 0;
     }
 
     header h2 {
